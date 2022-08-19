@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashley!</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<img align= "right" alt="coding" width="400" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" />
+<img align= "right" alt="coding" width="400" src="https://github.com/olika-ashley/olika-ashley/blob/main/Owm.gif" />
 
 
 
