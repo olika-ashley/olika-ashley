@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashley!</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<img align= "right" alt="coding" width="400" src="" />
-<div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align= "right" alt="coding" width="400" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" />
 
-<iframe src="https://giphy.com/embed/3ohhwEBrUKal8ebBni" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni">via GIPHY</a></p>
+
 
 - 🔭 I’m currently working on **Medical Healthcare System**
 
