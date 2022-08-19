@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/wysrenee" target="blank"><img src="https://img.shields.io/twitter/follow/wysrenee?logo=twitter&style=for-the-badge" alt="wysrenee" /></a> </p>
 
+<iframe src="https://giphy.com/embed/3ohhwEBrUKal8ebBni" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni">via GIPHY</a></p>
+
 - 🔭 I’m currently working on **Medical Healthcare System**
 
 - 🌱 I’m currently learning **next.js, swift**
