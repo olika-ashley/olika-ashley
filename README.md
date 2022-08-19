@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashley!</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/wysrenee" target="blank"><img src="https://img.shields.io/twitter/follow/wysrenee?logo=twitter&style=for-the-badge" alt="wysrenee" /></a> </p>
+<img align= "right" alt="coding" width="400" src="" />
+<div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <iframe src="https://giphy.com/embed/3ohhwEBrUKal8ebBni" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-girl-angry-3ohhwEBrUKal8ebBni">via GIPHY</a></p>
 
