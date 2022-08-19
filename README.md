@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @olika-ashley
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning javascript and ui/ux
+- 👀 I’m a front end developer
 - 💞️ I’m looking to collaborate on any innovative front end products
 - 📫 How to reach me email:olikaashley@gmail.com twitter:@rainbowssmiles2
 
