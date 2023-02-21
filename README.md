@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **node.js & mongodb**
 
-- 👨‍💻 All of my projects are available at [ashjs.vercel-app.com](ashjs.vercel-app.com)
+- 👨‍💻 All of my projects are available at [ashjs.vercel-app.com]
 
-- 📝 I regularly write articles on [ashjs.hashnode.dev](ashjs.hashnode.dev)
+- 📝 I regularly write articles on [ashjs.hashnode.dev](https://ashjs.hashnode.dev)
 
 - 💬 Ask me about **react.js, java, python**
 
 - 📫 How to reach me **olikaashley@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IaadgkuSTH9xSr8DXPmRrZ9BIQfHqPOE/view?usp=sharing](https://drive.google.com/file/d/1IaadgkuSTH9xSr8DXPmRrZ9BIQfHqPOE/view?usp=sharing)
+- 📄 Know about my experiences [My Resumé](https://drive.google.com/file/d/1IaadgkuSTH9xSr8DXPmRrZ9BIQfHqPOE/view?usp=sharing)
 
 - ⚡ Fun fact **I love anime & music, also will own you on the basketball court🥴.**
 
