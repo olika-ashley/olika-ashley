@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Medical Healthcare System**
 
-- 🌱 I’m currently learning **next.js, swift**
+- 🌱 I’m currently learning **swift, flutter**
 
 - 👯 I’m looking to collaborate on **front-end tools that enable smooth accessibility to users from all demographics.**
 
