@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashley!</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Software Engineer & Student</h3>
 
 <img align= "right" alt="coding" width="400" src="https://github.com/olika-ashley/olika-ashley/blob/main/Owm.gif" />
 
 
 
-- 🔭 I’m currently working on **Medical Healthcare System**
+- 🔭 I’m currently working on **A Medical Healthcare System**
 
 - 🌱 I’m currently learning **swift, flutter**
 
